@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+![](https://github.com/rahulgtst/rahulgtst/blob/main/banner.png)
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://github.com/rahulgtst/rahul)
 
