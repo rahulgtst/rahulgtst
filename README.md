@@ -5,7 +5,7 @@
 # 👨‍💻 About Me
 
 - 🚀 Software Engineer passionate about building impactful and scalable solutions.
-- 🧠 Currently exploring: `Next.js`, `TypeScript`, and `Docker`.
+- 🧠 Currently exploring: `Nest.js`, `TypeScript`, and `Docker`.
 - 💼 Tech Experience in: `Angular`, `React`, `Node.js`, `GraphQL`, `PostgreSQL`, and more.
 - 🧩 I love solving complex problems and turning ideas into reality.
 
